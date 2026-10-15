@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Yashif+Victoriawan;Frontend+%7C+QA+%7C+UAV+GCS)](https://git.io/typing-svg)
 
-Informatics @ Universitas Sebelas Maret.<br>
+Informatics @ Universitas Sebelas Maret.
+
+<img src="URL_GIF_KAMU" width="320" alt="Arlecchino" />
 
 </div>
 
