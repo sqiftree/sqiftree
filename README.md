@@ -1,39 +1,28 @@
-### Hi, I'm Yashif Victoriawan 👋
+<div align="center">
 
-Informatics undergraduate at Universitas Sebelas Maret (UNS). Focused on frontend engineering, software quality assurance, product development, and UAV ground control systems. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Yashif+Victoriawan;Frontend+%7C+QA+%7C+UAV+GCS)](https://git.io/typing-svg)
 
----
+Informatics @ Universitas Sebelas Maret.<br>
+Bikin web, nge-test web, dan sesekali ngurus pesawat tanpa awak.
 
-### 💻 Tech Stack & Tools
-
-* **Languages:** C/C++, Python, JavaScript, TypeScript
-* **Frontend & Web:** React, Next.js, HTML/CSS, Tailwind CSS
-* **Systems & Robotics:** UAV Ground Control Systems (GCS), MAVLink Telemetry, Flight Parameter Tuning
-* **QA & Workflow:** Quality Assurance, Git, GitHub, Figma, Linux Environment
-
----
-
-### 🚀 Professional & Featured Work
-
-* **Bingilo – Financial Bookkeeping & Ledger Application**
-  * **Role:** Frontend Developer, QA, & Client Relations
-  * **Context:** Handled client acquisition and requirements gathering directly, drove the frontend implementation, and executed rigorous quality assurance (QA) to ensure a production-ready bookkeeping solution.
-* **Narash BUV (Bengawan Unmanned Vehicle UNS) – KRTI 2026**
-  * **Role:** Programming & Ground Control System (GCS) Engineer
-  * **Context:** Developed software configuration, telemetry monitoring, and GCS operations for the Regional Selection phase of the 1st Place National Racing Plane team (*Ambalap*).
-
----
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sqiftree&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqiftree&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="150" alt="Top Languages" />
 </div>
 
----
+### Tech Stack
 
-### 📫 Contact & Connect
+[![](https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,tailwind,figma,git,github,linux&perline=12&theme=dark)](https://skillicons.dev)
 
-* **LinkedIn:** [Yashif Victoriawan](https://www.linkedin.com/in/yashif-victoriawan/)
-* **GitHub:** [@sqiftree](https://github.com/sqiftree)
+### Lagi dikerjain
+
+**Bingilo** — aplikasi pembukuan & ledger. Dari cari klien, nentuin requirement, ngerjain frontend, sampai QA-nya.
+
+**Narash BUV (UNS)** — GCS & programming untuk tim pesawat KRTI 2026. Telemetry MAVLink dan konfigurasi untuk seleksi regional, bareng tim *Ambalap* (juara 1 nasional Racing Plane).
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sqiftree&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqiftree&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="140" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sqiftree)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashif-victoriawan/)
+
+</div>
