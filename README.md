@@ -4,7 +4,7 @@
 
 Informatics @ Universitas Sebelas Maret.
 
-<img src="URL_GIF_KAMU" width="320" alt="Arlecchino" />
+<img src="assets/arlecchino.gif" width="320" alt="Arlecchino" />
 
 </div>
 
