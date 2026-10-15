@@ -15,7 +15,7 @@ Bikin web, nge-test web, dan sesekali ngurus pesawat tanpa awak.
 
 **Bingilo** — aplikasi pembukuan & ledger. Dari cari klien, nentuin requirement, ngerjain frontend, sampai QA-nya.
 
-**Narash BUV (UNS)** — GCS & programming untuk tim pesawat KRTI 2026. Telemetry MAVLink dan konfigurasi untuk seleksi regional, bareng tim *Ambalap* (juara 1 nasional Racing Plane).
+**Narash BUV (UNS)** — GCS & programming untuk tim pesawat KRTI 2026. Telemetry MAVLink dan konfigurasi untuk seleksi regional, bareng tim *Ambalap*.
 
 <div align="center">
 
