@@ -11,11 +11,11 @@ Bikin web, nge-test web, dan sesekali ngurus pesawat tanpa awak.
 
 [![](https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,tailwind,figma,git,github,linux&perline=12&theme=dark)](https://skillicons.dev)
 
-### Lagi dikerjain
+### Lagi dikerjain & aktif
 
 **Bingilo** — aplikasi pembukuan & ledger. Dari cari klien, nentuin requirement, ngerjain frontend, sampai QA-nya.
 
-**Narash BUV (UNS)** — GCS & programming untuk tim pesawat KRTI 2026. Telemetry MAVLink dan konfigurasi untuk seleksi regional, bareng tim *Ambalap*.
+**Narash BUV (UNS)** — GCS & programming untuk tim Narash BUV yang berpartisipasi pada KRTI 2026. Telemetry MAVLink dan konfigurasi untuk seleksi regional, bareng tim *Ambalap*.
 
 <div align="center">
 
