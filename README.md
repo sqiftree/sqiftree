@@ -14,9 +14,9 @@ Informatics @ Universitas Sebelas Maret.
 
 ### Lagi dikerjain & aktif
 
-**Bingilo** — aplikasi pembukuan & ledger. Dari cari klien, nentuin requirement, ngerjain frontend, sampai QA-nya.
+**Bingilo** - aplikasi pembukuan & ledger. Dari cari klien, nentuin requirement, ngerjain frontend, sampai QA-nya.
 
-**Narash BUV (UNS)** — GCS & programming untuk tim Narash BUV yang berpartisipasi pada KRTI 2026. Telemetry MAVLink dan konfigurasi untuk seleksi regional, bareng tim *Ambalap*.
+**Narash BUV (UNS)** - GCS & programming untuk tim Narash BUV yang berpartisipasi pada KRTI 2026. Telemetry MAVLink dan konfigurasi untuk seleksi regional, bareng tim *Ambalap*.
 
 <div align="center">
 
